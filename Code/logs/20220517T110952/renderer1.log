@@ -1,0 +1,10 @@
+[2022-05-17 11:09:54.433] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-05-17 11:09:55.067] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-05-17 11:09:56.641] [renderer1] [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {}
+[2022-05-17 11:09:57.127] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2022-05-17 11:09:57.729] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+[2022-05-17 11:38:33.805] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

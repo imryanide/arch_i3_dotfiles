@@ -1,0 +1,6 @@
+2022/06/07-09:45:06.840 4653 Creating DB /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.joplinapp.org_0.indexeddb.leveldb since it was missing.
+2022/06/07-09:45:06.853 4653 Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.joplinapp.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/07-09:45:48.898 4657 Level-0 table #5: started
+2022/06/07-09:45:48.901 4657 Level-0 table #5: 4179 bytes OK
+2022/06/07-09:45:48.904 4657 Delete type=0 #3
+2022/06/07-09:45:48.905 4657 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

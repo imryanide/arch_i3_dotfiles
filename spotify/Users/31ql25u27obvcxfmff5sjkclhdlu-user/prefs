@@ -1,0 +1,5 @@
+audio.crossfade_v2=true
+audio.play_bitrate_non_metered_migrated=true
+audio.play_bitrate_enumeration=4
+audio.play_bitrate_non_metered_enumeration=4
+app.player.volume=45099

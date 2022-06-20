@@ -1,0 +1,35 @@
+[2022-06-09 17:36:52.044] [sharedprocess] [info] Starting worker process with pid 3829 (type: fileWatcher, window: 1).
+[2022-06-09 17:36:52.255] [sharedprocess] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/baka/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-06-09 17:36:52.569] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-wsl /home/baka/.vscode/extensions/ms-vscode-remote.remote-wsl-0.66.2
+[2022-06-09 17:36:53.444] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.5.1
+[2022-06-09 17:36:53.504] [sharedprocess] [info] Deleted from disk ms-python.python /home/baka/.vscode/extensions/ms-python.python-2022.6.2
+[2022-06-09 17:36:55.610] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-09 17:36:55.614] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-06-09 17:36:55.954] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-09 17:36:56.664] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-06-09 17:37:27.831] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/baka/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.10
+[2022-06-09 17:37:32.161] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.1f31c145-71e2-49fb-a105-d9a4d99c9a72: ms-python.vscode-pylance
+[2022-06-09 17:37:32.206] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.6.10
+[2022-06-09 17:37:32.209] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-09 17:37:32.215] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-09 17:37:50.360] [sharedprocess] [info] Worker process with pid 3829 terminated normally (type: fileWatcher, window: 1).
+[2022-06-09 17:37:51.776] [sharedprocess] [info] Starting worker process with pid 3894 (type: fileWatcher, window: 1).
+[2022-06-09 17:37:56.008] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-06-09 17:37:56.020] [sharedprocess] [info] Extensions is already requested to install ms-vscode.cpptools
+[2022-06-09 17:38:00.232] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/baka/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.10.5-linux-x64
+[2022-06-09 17:38:02.709] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.6badfd26-b292-41b2-9d26-e8656be9983c: ms-vscode.cpptools
+[2022-06-09 17:38:02.734] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-vscode.cpptools-1.10.5-linux-x64
+[2022-06-09 17:38:02.752] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-06-09 17:38:02.764] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-06-09 17:39:01.303] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-06-09 17:39:01.307] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-06-09 17:39:04.141] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/baka/.config/Code/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-06-09 17:39:04.181] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.4f3153dd-b1dc-46df-97da-a5cbedc59530: dracula-theme.theme-dracula
+[2022-06-09 17:39:04.186] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-06-09 17:39:04.188] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-06-09 17:39:04.190] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
+[2022-06-10 14:46:02.510] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+[2022-06-10 14:51:02.682] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+[2022-06-10 14:56:02.787] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+[2022-06-10 17:15:21.990] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+[2022-06-10 17:20:22.098] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}

@@ -1,0 +1,12 @@
+[2022-06-07 15:57:25.085] [exthost] [info] Extension host with pid 13804 started
+[2022-06-07 15:57:25.085] [exthost] [info] Skipping acquiring lock for /home/baka/.config/Code/User/workspaceStorage/ff4f677ec1eeabb1578762a1fb82940e.
+[2022-06-07 15:57:25.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-07 15:57:25.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-07 15:57:25.444] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-07 15:57:25.450] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-06-07 15:57:25.465] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-06-07 15:57:25.507] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-06-07 15:57:25.522] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-06-07 15:57:25.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-07 15:57:25.556] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-07 15:57:25.558] [exthost] [info] Extension host with pid 13804 exiting with code 0

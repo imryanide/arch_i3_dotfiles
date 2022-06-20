@@ -1,0 +1,20 @@
+2022/06/17-00:08:38.282 32e6 Reusing MANIFEST /home/baka/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/17-00:08:38.282 32e6 Recovering log #99
+2022/06/17-00:08:38.288 32e6 Level-0 table #102: started
+2022/06/17-00:08:38.303 32e6 Level-0 table #102: 466172 bytes OK
+2022/06/17-00:08:38.306 32e6 Delete type=0 #99
+2022/06/17-00:08:38.307 32f2 Compacting 4@0 + 1@1 files
+2022/06/17-00:08:38.324 32f2 Generated table #104@0: 100 keys, 513849 bytes
+2022/06/17-00:08:38.324 32f2 Compacted 4@0 + 1@1 files => 513849 bytes
+2022/06/17-00:08:38.326 32f2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/17-00:08:38.327 32f2 Delete type=2 #95
+2022/06/17-00:08:38.327 32f2 Delete type=2 #102
+2022/06/17-00:08:38.327 32f2 Delete type=2 #93
+2022/06/17-00:08:38.327 32f2 Delete type=2 #100
+2022/06/17-00:08:38.327 32f2 Delete type=2 #98
+2022/06/18-12:31:37.327 3305 Level-0 table #106: started
+2022/06/18-12:31:37.348 3305 Level-0 table #106: 43574 bytes OK
+2022/06/18-12:31:37.352 3305 Delete type=0 #103
+2022/06/18-16:34:34.329 4605 Level-0 table #108: started
+2022/06/18-16:34:34.341 4605 Level-0 table #108: 23073 bytes OK
+2022/06/18-16:34:34.347 4605 Delete type=0 #105

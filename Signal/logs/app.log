@@ -1,0 +1,49 @@
+{"level":30,"time":"2022-05-17T09:16:22.269Z","pid":25585,"hostname":"sussy","msg":"x-attr dependency did not load successfully"}
+{"level":30,"time":"2022-05-17T09:16:22.363Z","pid":25585,"hostname":"sussy","msg":"preload complete"}
+{"level":30,"time":"2022-05-17T09:16:22.370Z","pid":25585,"hostname":"sussy","msg":"@signalapp/libsignal-client Initializing libsignal version:0.16.0 signal_node::logging rust/bridge/node/src/logging.rs:133"}
+{"level":30,"time":"2022-05-17T09:16:22.522Z","pid":25585,"hostname":"sussy","msg":"NotificationService initialized"}
+{"level":30,"time":"2022-05-17T09:16:22.594Z","pid":25585,"hostname":"sussy","msg":"initializeMessageCounter: picking max of db/stored counters"}
+{"level":30,"time":"2022-05-17T09:16:22.594Z","pid":25585,"hostname":"sussy","msg":"Our profile key service: initializing"}
+{"level":30,"time":"2022-05-17T09:16:22.743Z","pid":25585,"hostname":"sussy","msg":"background page reloaded"}
+{"level":30,"time":"2022-05-17T09:16:22.743Z","pid":25585,"hostname":"sussy","msg":"environment: production"}
+{"level":30,"time":"2022-05-17T09:16:23.269Z","pid":25585,"hostname":"sussy","msg":"Checking for the existence of IndexedDB data..."}
+{"level":30,"time":"2022-05-17T09:16:23.688Z","pid":25585,"hostname":"sussy","msg":"Storage fetch"}
+{"level":30,"time":"2022-05-17T09:16:23.698Z","pid":25585,"hostname":"sussy","msg":"SocketManager: connecting authenticated socket"}
+{"level":30,"time":"2022-05-17T09:16:23.707Z","pid":25585,"hostname":"sussy","msg":"conversation job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.707Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"conversation\""}
+{"level":30,"time":"2022-05-17T09:16:23.708Z","pid":25585,"hostname":"sussy","msg":"single proto job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.708Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"single proto\""}
+{"level":30,"time":"2022-05-17T09:16:23.709Z","pid":25585,"hostname":"sussy","msg":"delivery receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.710Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"delivery receipts\""}
+{"level":30,"time":"2022-05-17T09:16:23.711Z","pid":25585,"hostname":"sussy","msg":"read receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.711Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"read receipts\""}
+{"level":30,"time":"2022-05-17T09:16:23.712Z","pid":25585,"hostname":"sussy","msg":"viewed receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.712Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"viewed receipts\""}
+{"level":30,"time":"2022-05-17T09:16:23.713Z","pid":25585,"hostname":"sussy","msg":"read sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.713Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"read sync\""}
+{"level":30,"time":"2022-05-17T09:16:23.714Z","pid":25585,"hostname":"sussy","msg":"view sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.715Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"view sync\""}
+{"level":30,"time":"2022-05-17T09:16:23.715Z","pid":25585,"hostname":"sussy","msg":"view once open sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.715Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"view once open sync\""}
+{"level":30,"time":"2022-05-17T09:16:23.715Z","pid":25585,"hostname":"sussy","msg":"remove storage key job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.715Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"remove storage key\""}
+{"level":30,"time":"2022-05-17T09:16:23.716Z","pid":25585,"hostname":"sussy","msg":"report spam job queue: starting to stream jobs"}
+{"level":30,"time":"2022-05-17T09:16:23.716Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"report spam\""}
+{"level":30,"time":"2022-05-17T09:16:23.717Z","pid":25585,"hostname":"sussy","msg":"Initializing MessageReceiver"}
+{"level":30,"time":"2022-05-17T09:16:23.718Z","pid":25585,"hostname":"sussy","msg":"Sender certificate service initialized"}
+{"level":30,"time":"2022-05-17T09:16:23.723Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"conversation\""}
+{"level":30,"time":"2022-05-17T09:16:23.723Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"single proto\""}
+{"level":30,"time":"2022-05-17T09:16:23.723Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"delivery receipts\""}
+{"level":30,"time":"2022-05-17T09:16:23.723Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"read receipts\""}
+{"level":30,"time":"2022-05-17T09:16:23.723Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"viewed receipts\""}
+{"level":30,"time":"2022-05-17T09:16:23.724Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"read sync\""}
+{"level":30,"time":"2022-05-17T09:16:23.724Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"view sync\""}
+{"level":30,"time":"2022-05-17T09:16:23.724Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"view once open sync\""}
+{"level":30,"time":"2022-05-17T09:16:23.724Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"remove storage key\""}
+{"level":30,"time":"2022-05-17T09:16:23.724Z","pid":25585,"hostname":"sussy","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"report spam\""}
+{"level":30,"time":"2022-05-17T09:16:23.799Z","pid":25585,"hostname":"sussy","msg":"data.startInRendererProcess: switching to renderer process"}
+{"level":30,"time":"2022-05-17T09:16:23.816Z","pid":25585,"hostname":"sussy","msg":"data.startInRendererProcess: switched to renderer process"}
+{"level":30,"time":"2022-05-17T09:16:23.816Z","pid":25585,"hostname":"sussy","msg":"Starting background data migration. Target version: 10"}
+{"level":30,"time":"2022-05-17T09:16:23.817Z","pid":25585,"hostname":"sussy","msg":"GET (WS) https://chat.signal.org/v1/config"}
+{"level":30,"time":"2022-05-17T09:16:23.820Z","pid":25585,"hostname":"sussy","msg":"RetryPlaceholders.constructor: Started with 0 items, lifespan of 3600000"}
+{"level":30,"time":"2022-05-17T09:16:23.820Z","pid":25585,"hostname":"sussy","msg":"ConversationController: starting initial fetch"}

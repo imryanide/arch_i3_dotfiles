@@ -1,0 +1,14 @@
+2022/05/20-10:46:18.691 35a Reusing MANIFEST /home/baka/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/05/20-10:46:18.692 35a Recovering log #18
+2022/05/20-10:46:18.694 35a Level-0 table #21: started
+2022/05/20-10:46:18.698 35a Level-0 table #21: 82274 bytes OK
+2022/05/20-10:46:18.701 35a Delete type=0 #18
+2022/05/20-10:46:18.701 36d Compacting 4@0 + 1@1 files
+2022/05/20-10:46:18.732 36d Generated table #23@0: 106 keys, 760541 bytes
+2022/05/20-10:46:18.732 36d Compacted 4@0 + 1@1 files => 760541 bytes
+2022/05/20-10:46:18.734 36d compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/05/20-10:46:18.735 36d Delete type=2 #13
+2022/05/20-10:46:18.735 36d Delete type=2 #19
+2022/05/20-10:46:18.735 36d Delete type=2 #15
+2022/05/20-10:46:18.735 36d Delete type=2 #17
+2022/05/20-10:46:18.735 36d Delete type=2 #21

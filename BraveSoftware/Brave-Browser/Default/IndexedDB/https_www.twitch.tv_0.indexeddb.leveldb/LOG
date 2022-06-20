@@ -1,0 +1,6 @@
+2022/06/12-16:27:37.892 3022 Creating DB /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb since it was missing.
+2022/06/12-16:27:37.916 3022 Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/12-16:28:09.951 2ceb Level-0 table #5: started
+2022/06/12-16:28:09.953 2ceb Level-0 table #5: 846 bytes OK
+2022/06/12-16:28:09.955 2ceb Delete type=0 #3
+2022/06/12-16:28:09.956 2ceb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

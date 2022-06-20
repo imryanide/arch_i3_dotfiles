@@ -1,0 +1,17 @@
+[2022-06-07T07:28:34.054Z] Validating found git in: git
+[2022-06-07T07:28:34.127Z] Using git  from git
+[2022-06-07T07:28:34.154Z] > git rev-parse --show-toplevel [14ms]
+[2022-06-07T07:28:34.172Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-06-07T07:28:34.180Z] Open repository: /home/baka/code/button
+[2022-06-07T07:28:36.000Z] > git status -z -uall [1810ms]
+[2022-06-07T07:28:36.026Z] > git symbolic-ref --short HEAD [14ms]
+[2022-06-07T07:28:36.365Z] > git show --textconv :src/App.js [91ms]
+[2022-06-07T07:28:36.365Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [321ms]
+[2022-06-07T07:28:36.405Z] > git remote --verbose [19ms]
+[2022-06-07T07:28:36.410Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [36ms]
+[2022-06-07T07:28:36.429Z] > git ls-files --stage -- /home/baka/code/button/src/App.js [145ms]
+[2022-06-07T07:28:36.467Z] > git check-ignore -v -z --stdin [64ms]
+[2022-06-07T07:28:36.470Z] > git cat-file -s ce0d372714706b7114cea095c331b67dc8d813ac [31ms]
+[2022-06-07T07:28:36.481Z] > git config --get commit.template [29ms]
+[2022-06-07T07:29:28.162Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-07T07:29:28.162Z] fatal: not a git repository (or any of the parent directories): .git

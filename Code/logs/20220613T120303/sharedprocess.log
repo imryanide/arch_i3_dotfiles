@@ -1,0 +1,53 @@
+[2022-06-13 12:03:07.293] [sharedprocess] [info] Starting worker process with pid 22143 (type: fileWatcher, window: 1).
+[2022-06-13 12:03:08.085] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/baka/.vscode/extensions/ms-vscode.cpptools-1.9.8-linux-x64
+[2022-06-13 12:03:08.200] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.6.0
+[2022-06-13 12:03:15.920] [sharedprocess] [info] Worker process with pid 22143 terminated normally (type: fileWatcher, window: 1).
+[2022-06-13 12:03:17.159] [sharedprocess] [info] Starting worker process with pid 22254 (type: fileWatcher, window: 1).
+[2022-06-13 12:03:22.985] [sharedprocess] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-06-13 12:03:22.988] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-06-13 12:03:22.989] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-13 12:03:22.991] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-13 12:03:22.995] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-containers
+[2022-06-13 12:03:22.999] [sharedprocess] [info] Getting Manifest... unthrottled.doki-theme
+[2022-06-13 12:03:24.114] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-06-13 12:03:24.115] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2022-06-13 12:03:24.119] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-06-13 12:03:24.132] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2022-06-13 12:03:24.224] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-13 12:03:24.349] [sharedprocess] [info] Installing extension: unthrottled.doki-theme
+[2022-06-13 12:03:28.625] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /home/baka/.config/Code/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.1
+[2022-06-13 12:03:28.716] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.bec81143-92f5-4d8b-8412-229f3f799a85: christian-kohler.path-intellisense
+[2022-06-13 12:03:28.720] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/christian-kohler.path-intellisense-2.8.1
+[2022-06-13 12:03:28.722] [sharedprocess] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-06-13 12:03:28.727] [sharedprocess] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-06-13 12:03:30.372] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/baka/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.16
+[2022-06-13 12:03:30.436] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.47f5528b-97c2-4dce-b04c-3c3249889230: jeff-hykin.better-cpp-syntax
+[2022-06-13 12:03:30.440] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.16
+[2022-06-13 12:03:30.442] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-06-13 12:03:30.446] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-06-13 12:03:31.826] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/baka/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.238.2
+[2022-06-13 12:03:32.343] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.3911122b-aa44-485d-9248-9be4c6ef1903: ms-vscode-remote.remote-containers
+[2022-06-13 12:03:32.357] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-vscode-remote.remote-containers-0.238.2
+[2022-06-13 12:03:32.360] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2022-06-13 12:03:32.364] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2022-06-13 12:03:33.738] [sharedprocess] [info] Worker process with pid 22254 terminated normally (type: fileWatcher, window: 1).
+[2022-06-13 12:03:34.520] [sharedprocess] [info] Downloaded extension: unthrottled.doki-theme /home/baka/.config/Code/CachedExtensionVSIXs/unthrottled.doki-theme-78.1.5
+[2022-06-13 12:03:34.713] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.9eaebdba-1b53-4a0a-b7c7-0198e6b1ab0a: unthrottled.doki-theme
+[2022-06-13 12:03:34.738] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/unthrottled.doki-theme-78.1.5
+[2022-06-13 12:03:34.741] [sharedprocess] [info] Extracting completed. unthrottled.doki-theme
+[2022-06-13 12:03:34.745] [sharedprocess] [info] Extension installed successfully: unthrottled.doki-theme
+[2022-06-13 12:03:34.997] [sharedprocess] [info] Starting worker process with pid 22373 (type: fileWatcher, window: 1).
+[2022-06-13 12:03:44.564] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-13 12:03:44.567] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-13 12:03:44.582] [sharedprocess] [info] Extensions is already requested to install ms-python.python
+[2022-06-13 12:03:44.586] [sharedprocess] [info] Extensions is already requested to install ms-toolsai.jupyter
+[2022-06-13 12:03:45.908] [sharedprocess] [info] Downloaded extension: ms-python.python /home/baka/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.8.0
+[2022-06-13 12:03:48.071] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/baka/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-13 12:03:49.108] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.1bbfca7c-cb42-4c8f-9202-bc7af5d2a7f8: ms-toolsai.jupyter
+[2022-06-13 12:03:49.137] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-13 12:03:49.161] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-06-13 12:03:49.179] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-06-13 12:03:49.675] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.93642419-ef70-45d3-b107-f1702986f098: ms-python.python
+[2022-06-13 12:03:49.702] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-python.python-2022.8.0
+[2022-06-13 12:03:49.705] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-06-13 12:03:49.710] [sharedprocess] [info] Extension installed successfully: ms-python.python

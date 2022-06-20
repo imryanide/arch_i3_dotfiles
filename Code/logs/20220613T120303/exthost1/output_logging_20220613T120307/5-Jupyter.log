@@ -1,0 +1,17 @@
+Visual Studio Code (1.68.0, undefined, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.3.
+Workspace folder /home/baka/code/ed-analytics.py
+info 12:3:10.305: ZMQ install verified.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 12:3:11.280: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 12:3:12.511: Process Execution: > ~/code/ed-analytics.py/ed-venv/bin/python -m pip list
+> ~/code/ed-analytics.py/ed-venv/bin/python -m pip list
+info 12:3:15.951: Shutting down notebooks for e655b570-6c26-4113-b889-73d206691236
+info 12:3:15.952: Disposing HostJupyterExecution 79067001-4c4c-4693-b144-f716e0c920d3
+info 12:3:15.952: Disposing super HostJupyterExecution 79067001-4c4c-4693-b144-f716e0c920d3
+info 12:3:15.952: Disposing HostJupyterExecution 79067001-4c4c-4693-b144-f716e0c920d3
+info 12:3:15.952: Finished disposing HostJupyterExecution  79067001-4c4c-4693-b144-f716e0c920d3
+info 12:3:15.991: Cleaning up server cache 79067001-4c4c-4693-b144-f716e0c920d3
+info 12:3:15.992: Finished disposing HostJupyterExecution  79067001-4c4c-4693-b144-f716e0c920d3

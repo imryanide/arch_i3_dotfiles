@@ -1,0 +1,9 @@
+2022/06/19-10:39:40.484 3cf Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/06/19-10:39:40.486 3cf Recovering log #34
+2022/06/19-10:39:40.492 3cf Reusing old log /home/baka/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000034.log 
+2022/06/19-11:01:58.541 3fd Level-0 table #39: started
+2022/06/19-11:01:58.548 3fd Level-0 table #39: 77026 bytes OK
+2022/06/19-11:01:58.561 3fd Delete type=0 #34
+2022/06/19-12:15:45.337 3d0 Level-0 table #41: started
+2022/06/19-12:15:45.353 3d0 Level-0 table #41: 60769 bytes OK
+2022/06/19-12:15:45.358 3d0 Delete type=0 #38

@@ -1,0 +1,6 @@
+[2022-05-17 09:24:52.795] [sharedprocess] [info] Starting worker process with pid 2066 (type: fileWatcher, window: 1).
+[2022-05-17 09:24:53.150] [sharedprocess] [info] Deleted from disk visualstudioexptteam.vscodeintellicode /home/baka/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.20
+[2022-05-17 09:24:53.172] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/baka/.vscode/extensions/ms-toolsai.jupyter-2022.4.1011282140
+[2022-05-17 09:24:53.471] [sharedprocess] [info] Deleted from disk ms-python.python /home/baka/.vscode/extensions/ms-python.python-2022.6.1
+[2022-05-17 09:25:05.837] [sharedprocess] [info] Worker process with pid 2066 terminated normally (type: fileWatcher, window: 1).
+[2022-05-17 09:25:07.093] [sharedprocess] [info] Starting worker process with pid 2099 (type: fileWatcher, window: 1).

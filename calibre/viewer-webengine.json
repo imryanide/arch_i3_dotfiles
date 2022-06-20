@@ -1,0 +1,50 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAOSAAAAKgAABU8AAAL5AAADkgAAACoAAAVPAAAC+QAAAAAAAAAABVYAAAOSAAAAKgAABU8AAAL5"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACEAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANIA////AAABvgAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 22,
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*Dark",
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "David L. Prowse"
+        ],
+        "key": "/home/baka/Documents/CalibreLibrary/David L. Prowse/CompTIA A_ Core 1 (220-1001) and Core 2 (220-1002) Exam Cram, Second Edition (2)/CompTIA A_ Core 1 (220-1001) and Core 2 (2 - David L. Prowse.epub",
+        "pathtoebook": "/home/baka/Documents/CalibreLibrary/David L. Prowse/CompTIA A_ Core 1 (220-1001) and Core 2 (220-1002) Exam Cram, Second Edition (2)/CompTIA A_ Core 1 (220-1001) and Core 2 (2 - David L. Prowse.epub",
+        "timestamp": "2022-05-31T17:02:59.683Z",
+        "title": "CompTIA A+ Core 1 (220-1001) and Core 2 (220-1002) Exam Cram, Second Edition"
+      },
+      {
+        "authors": [
+          "Quentin Docter"
+        ],
+        "key": "/home/baka/Documents/CalibreLibrary/Quentin Docter/About the Technical Editor (3)/About the Technical Editor - Quentin Docter.epub",
+        "pathtoebook": "/home/baka/Documents/CalibreLibrary/Quentin Docter/About the Technical Editor (3)/About the Technical Editor - Quentin Docter.epub",
+        "timestamp": "2022-05-31T17:02:11.378Z",
+        "title": "About the Technical Editor"
+      }
+    ],
+    "user_color_schemes": {
+      "*Dark": {
+        "background": "#2d3142",
+        "foreground": "#f4f4f4",
+        "name": "Dark"
+      }
+    }
+  }
+}

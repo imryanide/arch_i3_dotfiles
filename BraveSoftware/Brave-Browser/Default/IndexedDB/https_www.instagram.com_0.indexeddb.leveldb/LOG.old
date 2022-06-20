@@ -1,0 +1,7 @@
+2022/06/17-11:35:56.179 39ed Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/17-11:35:56.179 39ed Recovering log #3
+2022/06/17-11:35:56.180 39ed Reusing old log /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2022/06/17-11:36:33.464 39ed Level-0 table #5: started
+2022/06/17-11:36:33.470 39ed Level-0 table #5: 23964 bytes OK
+2022/06/17-11:36:33.473 39ed Delete type=0 #3
+2022/06/17-11:36:33.473 39ed Manual compaction at level-0 from (begin) .. (end); will stop at (end)

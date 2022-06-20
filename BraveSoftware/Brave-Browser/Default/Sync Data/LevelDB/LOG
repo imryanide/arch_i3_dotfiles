@@ -1,0 +1,21 @@
+2022/06/19-19:31:31.743 1c85 Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/06/19-19:31:31.745 1c85 Recovering log #40
+2022/06/19-19:31:31.749 1c85 Reusing old log /home/baka/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000040.log 
+2022/06/19-19:54:52.726 1c85 Level-0 table #44: started
+2022/06/19-19:54:52.737 1c85 Level-0 table #44: 67187 bytes OK
+2022/06/19-19:54:52.742 1c85 Delete type=0 #40
+2022/06/19-20:59:05.243 1c81 Level-0 table #46: started
+2022/06/19-20:59:05.256 1c81 Level-0 table #46: 69592 bytes OK
+2022/06/19-20:59:05.261 1c81 Delete type=0 #43
+2022/06/19-20:59:05.261 1c81 Compacting 4@0 + 1@1 files
+2022/06/19-20:59:05.271 1c81 Generated table #47@0: 92 keys, 12481 bytes
+2022/06/19-20:59:05.271 1c81 Compacted 4@0 + 1@1 files => 12481 bytes
+2022/06/19-20:59:05.273 1c81 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/19-20:59:05.274 1c81 Delete type=2 #46
+2022/06/19-20:59:05.274 1c81 Delete type=2 #41
+2022/06/19-20:59:05.274 1c81 Delete type=2 #44
+2022/06/19-20:59:05.274 1c81 Delete type=2 #39
+2022/06/19-20:59:05.274 1c81 Delete type=2 #36
+2022/06/19-22:02:47.674 1c83 Level-0 table #49: started
+2022/06/19-22:02:47.687 1c83 Level-0 table #49: 67415 bytes OK
+2022/06/19-22:02:47.692 1c83 Delete type=0 #45

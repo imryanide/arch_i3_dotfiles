@@ -1,0 +1,108 @@
+/* Font settin */
+@font-face {
+    font-family: "bludhaven";
+    src: url("./assets/BLUDHAVEN.ttf");
+}
+
+
+
+/*In Const*/
+* {
+    margin: 0px;
+    padding: 0px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.home-container {
+    display: flex;
+    background-color: #F7F7F2;
+
+}
+
+.home-text-container {
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-family: "bludhaven";
+    font-size: 10vh;
+    background-color: #F7F7F2;
+    color: #212738;
+    padding: 40px 40px;
+}
+
+.home-link {
+    color: #698996;
+    text-decoration: none;
+
+}
+
+.home-link:hover {
+    cursor: pointer !important;
+    color: #b4d2df;
+}
+
+/* Button */
+
+
+
+.about-container {
+    background-color: #253237;
+}
+
+.about-text-container {
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-family: "bludhaven";
+    font-size: 10vh;
+    background-color: #253237;
+    color: #F7F7F2;
+    padding-top: 10vh;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
+
+.contact-link {
+    color: #C1666B;
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    cursor: pointer !important;
+    color: #f69397;
+}
+
+#hello-head {
+    font-size: 14vh;
+}
+
+#big-about {
+    font-size: 10vh;
+}
+
+#med-about {
+    font-size: 8vh;
+}
+
+#small-about {
+    font-size: 6vh;
+}

@@ -1,0 +1,6 @@
+[2022-05-13T09:07:59.969Z] Stop (43 ms): Run: docker version --format {{.Server.APIVersion}}
+[2022-05-13T09:07:59.927Z] Remote-Containers 0.234.0 in VS Code 1.67.1 (da15b6fd3ef856477bf6f4fb29ba1b7af717770d).
+[2022-05-13T09:07:59.926Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2022-05-13T09:07:59.956Z] Stop (30 ms): Run: docker version --format {{.Server.APIVersion}}
+[2022-05-13T09:07:59.959Z] spawn docker ENOENT
+[2022-05-13T09:07:59.965Z] CLI host's PATH: /usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl

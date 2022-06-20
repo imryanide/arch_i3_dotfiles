@@ -1,0 +1,11 @@
+2022/06/15-21:39:14.493 542 Reusing MANIFEST /home/baka/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/15-21:39:14.493 542 Recovering log #91
+2022/06/15-21:39:14.494 542 Level-0 table #95: started
+2022/06/15-21:39:14.498 542 Level-0 table #95: 13856 bytes OK
+2022/06/15-21:39:14.501 542 Delete type=0 #91
+2022/06/15-21:41:27.967 542 Level-0 table #98: started
+2022/06/15-21:41:27.978 542 Level-0 table #98: 33969 bytes OK
+2022/06/15-21:41:27.981 542 Delete type=0 #96
+2022/06/16-12:41:18.367 1d1d Level-0 table #100: started
+2022/06/16-12:41:18.378 1d1d Level-0 table #100: 16265 bytes OK
+2022/06/16-12:41:18.382 1d1d Delete type=0 #97

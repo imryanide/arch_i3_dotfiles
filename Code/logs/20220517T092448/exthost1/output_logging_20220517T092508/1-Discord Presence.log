@@ -1,0 +1,12 @@
+[17/05/2022 09:25:12 - INFO] Discord Presence activated
+[17/05/2022 09:25:12 - INFO] Creating discord-rpc client
+[17/05/2022 09:25:13 - ERROR] Encountered following error while trying to login:
+Error: Could not connect
+[17/05/2022 09:25:13 - DEBUG] Loading git extension
+[17/05/2022 09:40:42 - INFO] Disable: Cleaning up old listeners
+[17/05/2022 09:40:42 - INFO] Disable: Destroyed the rpc instance
+[17/05/2022 09:40:42 - INFO] Enable: Cleaning up old listeners
+[17/05/2022 09:40:42 - INFO] Enable: Attempting to recreate login
+[17/05/2022 09:40:42 - INFO] Creating discord-rpc client
+[17/05/2022 09:40:42 - ERROR] Encountered following error while trying to login:
+Error: Could not connect

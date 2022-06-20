@@ -1,0 +1,42 @@
+[2022-06-14 21:38:42.583] [sharedprocess] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/baka/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-06-14 21:38:42.642] [sharedprocess] [info] Deleted from disk unthrottled.doki-theme /home/baka/.vscode/extensions/unthrottled.doki-theme-78.1.4
+[2022-06-14 21:38:42.791] [sharedprocess] [info] Deleted from disk christian-kohler.path-intellisense /home/baka/.vscode/extensions/christian-kohler.path-intellisense-2.8.0
+[2022-06-14 21:38:42.811] [sharedprocess] [info] Starting worker process with pid 2355 (type: fileWatcher, window: 1).
+[2022-06-14 21:38:43.412] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/baka/.vscode/extensions/ms-toolsai.jupyter-2022.4.1021342353
+[2022-06-14 21:38:44.459] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-containers /home/baka/.vscode/extensions/ms-vscode-remote.remote-containers-0.234.0
+[2022-06-14 21:38:44.514] [sharedprocess] [info] Deleted from disk ms-python.python /home/baka/.vscode/extensions/ms-python.python-2022.6.3
+[2022-06-14 21:38:46.478] [sharedprocess] [info] Getting Manifest... ecmel.vscode-html-css
+[2022-06-14 21:38:46.483] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-ssh
+[2022-06-14 21:38:46.489] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-06-14 21:38:46.903] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2022-06-14 21:38:46.911] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-06-14 21:38:47.423] [sharedprocess] [info] Getting Manifest... josetr.cmake-language-support-vscode
+[2022-06-14 21:38:47.494] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2022-06-14 21:38:47.958] [sharedprocess] [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+[2022-06-14 21:38:48.275] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /home/baka/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.82.1
+[2022-06-14 21:38:48.393] [sharedprocess] [info] Installing extension: josetr.cmake-language-support-vscode
+[2022-06-14 21:38:48.393] [sharedprocess] [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime
+[2022-06-14 21:38:48.793] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.bda6dd5c-31b2-40eb-bdc4-8d0f624c1c33: ms-vscode-remote.remote-ssh
+[2022-06-14 21:38:48.806] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-vscode-remote.remote-ssh-0.82.1
+[2022-06-14 21:38:48.808] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2022-06-14 21:38:48.816] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2022-06-14 21:38:49.354] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /home/baka/.config/Code/CachedExtensionVSIXs/ecmel.vscode-html-css-1.13.0
+[2022-06-14 21:38:49.438] [sharedprocess] [info] Downloaded extension: ms-dotnettools.vscode-dotnet-runtime /home/baka/.config/Code/CachedExtensionVSIXs/ms-dotnettools.vscode-dotnet-runtime-1.5.0
+[2022-06-14 21:38:49.446] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.b5f30ec6-2ab0-4a0e-af99-a15dfb714e55: ecmel.vscode-html-css
+[2022-06-14 21:38:49.453] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ecmel.vscode-html-css-1.13.0
+[2022-06-14 21:38:49.457] [sharedprocess] [info] Extracting completed. ecmel.vscode-html-css
+[2022-06-14 21:38:49.462] [sharedprocess] [info] Extension installed successfully: ecmel.vscode-html-css
+[2022-06-14 21:38:49.542] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.24e27792-5419-4be9-82bb-626cc6a0cce7: ms-dotnettools.vscode-dotnet-runtime
+[2022-06-14 21:38:49.545] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-1.5.0
+[2022-06-14 21:38:49.546] [sharedprocess] [info] Extracting completed. ms-dotnettools.vscode-dotnet-runtime
+[2022-06-14 21:38:50.733] [sharedprocess] [info] Downloaded extension: josetr.cmake-language-support-vscode /home/baka/.config/Code/CachedExtensionVSIXs/josetr.cmake-language-support-vscode-0.0.4
+[2022-06-14 21:38:50.859] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.f0be7913-d40f-440f-82f9-ccb2f441f79a: josetr.cmake-language-support-vscode
+[2022-06-14 21:38:50.875] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/josetr.cmake-language-support-vscode-0.0.4
+[2022-06-14 21:38:50.877] [sharedprocess] [info] Extracting completed. josetr.cmake-language-support-vscode
+[2022-06-14 21:38:51.915] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/baka/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.11.25
+[2022-06-14 21:38:52.163] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.02cddf3a-3610-4442-bab1-9c32bac8685b: ms-vscode.cmake-tools
+[2022-06-14 21:38:52.170] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-vscode.cmake-tools-1.11.25
+[2022-06-14 21:38:52.176] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-06-14 21:38:52.194] [sharedprocess] [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime
+[2022-06-14 21:38:52.194] [sharedprocess] [info] Extension installed successfully: josetr.cmake-language-support-vscode
+[2022-06-14 21:38:52.195] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools

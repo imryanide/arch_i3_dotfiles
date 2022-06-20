@@ -1,0 +1,12 @@
+2022/05/20-10:47:07.004 5d8 Reusing MANIFEST /home/baka/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/05/20-10:47:07.004 5d8 Recovering log #22
+2022/05/20-10:47:07.004 5d8 Reusing old log /home/baka/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000022.log 
+2022/05/20-10:47:13.535 6a1 Level-0 table #26: started
+2022/05/20-10:47:13.539 6a1 Level-0 table #26: 73806 bytes OK
+2022/05/20-10:47:13.542 6a1 Delete type=0 #22
+2022/05/20-10:48:08.347 6a1 Level-0 table #28: started
+2022/05/20-10:48:08.359 6a1 Level-0 table #28: 326428 bytes OK
+2022/05/20-10:48:08.364 6a1 Delete type=0 #25
+2022/05/20-13:26:20.427 6a1 Level-0 table #30: started
+2022/05/20-13:26:20.432 6a1 Level-0 table #30: 213924 bytes OK
+2022/05/20-13:26:20.434 6a1 Delete type=0 #27

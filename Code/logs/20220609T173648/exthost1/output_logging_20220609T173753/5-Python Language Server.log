@@ -1,0 +1,20 @@
+[Info  - 5:37:56 PM] (3954) Pylance language server 2022.6.10 (pyright bbc42826) starting
+[Info  - 5:37:56 PM] (3954) Server root directory: /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.6.10/dist
+Notebook support: Legacy
+[Info  - 5:37:56 PM] (3954) No configuration file found.
+[Info  - 5:37:56 PM] (3954) pyproject.toml file found at /home/baka/code/ed-analytics.py.
+[Info  - 5:37:56 PM] (3954) Setting pythonPath for service "ed-analytics.py": "/home/baka/code/ed-analytics.py/ed-venv/bin/python"
+[Info  - 5:37:56 PM] (3954) Loading pyproject.toml file at /home/baka/code/ed-analytics.py/pyproject.toml
+[Error - 5:37:56 PM] (3954) Pyproject file "/home/baka/code/ed-analytics.py/pyproject.toml" is missing "[tool.pyright]" section.
+[Warn  - 5:37:56 PM] (3954) stubPath /home/baka/code/ed-analytics.py/typings is not a valid directory.
+[Info  - 5:37:56 PM] (3954) Assuming Python version 3.10
+[Info  - 5:37:56 PM] (3954) Assuming Python platform Linux
+[Info  - 5:37:57 PM] (3954) Searching for source files
+[Info  - 5:37:57 PM] (3954) Auto-excluding /home/baka/code/ed-analytics.py/ed-venv
+[Info  - 5:37:57 PM] (3954) Found 10 source files
+[Info  - 5:37:57 PM] (3954) Background analysis(1) root directory: /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.6.10/dist
+[Info  - 5:37:57 PM] (3954) Background analysis(1) started
+[Info  - 5:39:18 PM] (3954) Indexer background runner(2) root directory: /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 5:39:18 PM] (3954) Indexing(2) started
+[Info  - 5:39:19 PM] (3954) [IDX(2)] Long operation: index libraries /home/baka/code/ed-analytics.py (2333ms)
+[Info  - 5:39:19 PM] (3954) Indexer done(2). indexed 442 files

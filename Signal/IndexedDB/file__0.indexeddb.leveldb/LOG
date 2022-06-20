@@ -1,0 +1,7 @@
+2022/05/17-14:46:23.273 6414 Reusing MANIFEST /home/baka/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/05/17-14:46:23.273 6414 Recovering log #4
+2022/05/17-14:46:23.273 6414 Reusing old log /home/baka/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2022/05/17-14:46:23.690 641a Level-0 table #8: started
+2022/05/17-14:46:23.691 641a Level-0 table #8: 472 bytes OK
+2022/05/17-14:46:23.693 641a Delete type=0 #4
+2022/05/17-14:46:23.696 641a Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,15 @@
+[Info  - 11:10:21 AM] (18334) Pylance language server 2022.5.1 (pyright e0e07d31) starting
+[Info  - 11:10:21 AM] (18334) Server root directory: /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 11:10:21 AM] (18334) No configuration file found.
+[Info  - 11:10:21 AM] (18334) No pyproject.toml file found.
+[Info  - 11:10:21 AM] (18334) Setting pythonPath for service "test-nodejs": "/bin/python"
+[Warn  - 11:10:21 AM] (18334) stubPath /home/baka/code/test-nodejs/typings is not a valid directory.
+[Info  - 11:10:21 AM] (18334) Assuming Python version 3.10
+[Info  - 11:10:21 AM] (18334) Assuming Python platform Linux
+[Info  - 11:10:21 AM] (18334) Searching for source files
+[Info  - 11:10:21 AM] (18334) Found 1 source file
+[Info  - 11:10:22 AM] (18334) Background analysis(1) root directory: /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist
+[Info  - 11:10:22 AM] (18334) Background analysis(1) started
+[Info  - 11:10:22 AM] (18334) Indexer background runner(2) root directory: /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.5.1/dist (index)
+[Info  - 11:10:22 AM] (18334) Indexing(2) started
+[Info  - 11:10:24 AM] (18334) Indexer done(2). indexed 449 files

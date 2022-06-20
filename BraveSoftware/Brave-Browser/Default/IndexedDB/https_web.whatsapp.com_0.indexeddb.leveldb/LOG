@@ -1,0 +1,59 @@
+2022/06/16-23:11:19.239 28b2 Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/16-23:11:19.243 28b2 Recovering log #2669
+2022/06/16-23:11:19.289 28b2 Reusing old log /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002669.log 
+2022/06/16-23:11:28.795 21c1 Level-0 table #2694: started
+2022/06/16-23:11:28.829 21c1 Level-0 table #2694: 1438535 bytes OK
+2022/06/16-23:11:28.832 21c1 Delete type=0 #2669
+2022/06/16-23:11:29.029 2a4c Compacting 1@0 + 0@1 files
+2022/06/16-23:11:29.059 2a4c Generated table #2695@0: 18079 keys, 493419 bytes
+2022/06/16-23:11:29.065 2a4c Generated table #2696@0: 2695 keys, 103392 bytes
+2022/06/16-23:11:29.065 2a4c Compacted 1@0 + 0@1 files => 596811 bytes
+2022/06/16-23:11:29.068 2a4c compacted to: files[ 0 2 20 0 0 0 0 ]
+2022/06/16-23:11:29.275 21c1 Compacting 1@1 + 10@2 files
+2022/06/16-23:11:29.358 21c1 Generated table #2697@1: 35184 keys, 2260896 bytes
+2022/06/16-23:11:29.424 21c1 Generated table #2698@1: 36733 keys, 2404446 bytes
+2022/06/16-23:11:29.461 21c1 Generated table #2699@1: 9441 keys, 2156654 bytes
+2022/06/16-23:11:29.486 21c1 Generated table #2700@1: 1936 keys, 2144993 bytes
+2022/06/16-23:11:29.510 21c1 Generated table #2701@1: 2135 keys, 2135489 bytes
+2022/06/16-23:11:29.537 21c1 Generated table #2702@1: 1965 keys, 2140187 bytes
+2022/06/16-23:11:29.568 21c1 Generated table #2703@1: 1980 keys, 2147827 bytes
+2022/06/16-23:11:29.596 21c1 Generated table #2704@1: 1939 keys, 2145333 bytes
+2022/06/16-23:11:29.634 21c1 Generated table #2705@1: 12972 keys, 2168201 bytes
+2022/06/16-23:11:29.694 21c1 Generated table #2706@1: 25953 keys, 2271173 bytes
+2022/06/16-23:11:29.695 21c1 Generated table #2707@1: 46 keys, 4909 bytes
+2022/06/16-23:11:29.695 21c1 Compacted 1@1 + 10@2 files => 21980108 bytes
+2022/06/16-23:11:29.698 21c1 compacted to: files[ 0 1 21 0 0 0 0 ]
+2022/06/16-23:11:29.699 21c1 Delete type=2 #2694
+2022/06/16-23:11:29.881 21c1 Compacting 1@1 + 9@2 files
+2022/06/16-23:11:29.946 21c1 Generated table #2708@1: 23086 keys, 2251040 bytes
+2022/06/16-23:11:30.022 21c1 Generated table #2709@1: 36780 keys, 2263113 bytes
+2022/06/16-23:11:30.066 21c1 Generated table #2710@1: 20931 keys, 2209883 bytes
+2022/06/16-23:11:30.093 21c1 Generated table #2711@1: 6798 keys, 2128420 bytes
+2022/06/16-23:11:30.139 21c1 Generated table #2712@1: 55318 keys, 2192085 bytes
+2022/06/16-23:11:30.209 21c1 Generated table #2713@1: 100937 keys, 2252916 bytes
+2022/06/16-23:11:30.278 21c1 Generated table #2714@1: 101539 keys, 2252982 bytes
+2022/06/16-23:11:30.346 21c1 Generated table #2715@1: 102283 keys, 2252637 bytes
+2022/06/16-23:11:30.394 21c1 Generated table #2716@1: 70744 keys, 1564103 bytes
+2022/06/16-23:11:30.394 21c1 Compacted 1@1 + 9@2 files => 19367179 bytes
+2022/06/16-23:11:30.397 21c1 compacted to: files[ 0 0 21 0 0 0 0 ]
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2695
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2674
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2684
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2683
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2691
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2680
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2688
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2687
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2673
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2676
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2696
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2681
+2022/06/16-23:11:30.397 21c1 Delete type=2 #2675
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2686
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2685
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2690
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2682
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2677
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2689
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2678
+2022/06/16-23:11:30.398 21c1 Delete type=2 #2679

@@ -1,0 +1,5 @@
+[13/06/2022 12:03:20 - INFO] Discord Presence activated
+[13/06/2022 12:03:20 - INFO] Creating discord-rpc client
+[13/06/2022 12:03:21 - INFO] Successfully connected to Discord
+[13/06/2022 12:03:21 - DEBUG] Loading git extension
+[13/06/2022 12:03:21 - TRACE] VSCode language id: python

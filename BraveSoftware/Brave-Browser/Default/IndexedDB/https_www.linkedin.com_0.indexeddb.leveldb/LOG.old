@@ -1,0 +1,7 @@
+2022/06/13-21:39:46.778 82ae Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/13-21:39:46.778 82ae Recovering log #3
+2022/06/13-21:39:46.778 82ae Reusing old log /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000003.log 
+2022/06/13-21:45:28.847 82fb Level-0 table #5: started
+2022/06/13-21:45:28.850 82fb Level-0 table #5: 841 bytes OK
+2022/06/13-21:45:28.853 82fb Delete type=0 #3
+2022/06/13-21:45:28.853 82fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

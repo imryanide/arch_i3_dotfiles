@@ -1,0 +1,18 @@
+Language server is set to "Default". Pylance is used as current language server.
+Acquiring model
+Acquiring model 'intellisense-members-lstm-pylance' for python
+Querying IntelliCode service for available models.
+vs-intellicode-python was passed a model: {}.
+Couldn't reach service Error Message: self signed certificate in certificate chain, (Error)
+Could not reach the IntelliCode service. Checking the local model cache.
+None of the cached models match.
+Couldn't download IntelliCode model. Please check your network connectivity or firewall settings. Error Message: self signed certificate in certificate chain, (Error)
+No model v2 available for Python, trying v1.
+Acquiring model 'intellisense-members-lstm' for python
+Querying IntelliCode service for available models.
+vs-intellicode-python was passed a model: {}.
+Couldn't reach service Error Message: self signed certificate in certificate chain, (Error)
+Could not reach the IntelliCode service. Checking the local model cache.
+None of the cached models match.
+Couldn't download IntelliCode model. Please check your network connectivity or firewall settings. Error Message: self signed certificate in certificate chain, (Error)
+No model available for Python, cannot continue.

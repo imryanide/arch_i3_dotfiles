@@ -1,0 +1,16 @@
+[2022-06-13T06:33:21.430Z] Log level: Info
+[2022-06-13T06:33:21.433Z] [info] Validating found git in: git
+[2022-06-13T06:33:21.827Z] [info] Using git  from git
+[2022-06-13T06:33:21.898Z] > git rev-parse --show-toplevel [52ms]
+[2022-06-13T06:33:21.936Z] > git rev-parse --git-dir --git-common-dir [17ms]
+[2022-06-13T06:33:21.941Z] [info] Open repository: /home/baka/code/ed-analytics.py
+[2022-06-13T06:33:21.964Z] > git status -z -uall [4ms]
+[2022-06-13T06:33:22.452Z] > git symbolic-ref --short HEAD [474ms]
+[2022-06-13T06:33:22.599Z] > git check-ignore -v -z --stdin [58ms]
+[2022-06-13T06:33:22.600Z] > git show --textconv :ed_analytics/github.py [32ms]
+[2022-06-13T06:33:22.603Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/testing refs/remotes/testing [136ms]
+[2022-06-13T06:33:22.659Z] > git remote --verbose [33ms]
+[2022-06-13T06:33:22.660Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [45ms]
+[2022-06-13T06:33:22.663Z] > git ls-files --stage -- /home/baka/code/ed-analytics.py/ed_analytics/github.py [80ms]
+[2022-06-13T06:33:22.723Z] > git cat-file -s 154b11fb9609fb2847ee36ad4ae891168cbc9e40 [49ms]
+[2022-06-13T06:33:22.750Z] > git config --get commit.template [35ms]

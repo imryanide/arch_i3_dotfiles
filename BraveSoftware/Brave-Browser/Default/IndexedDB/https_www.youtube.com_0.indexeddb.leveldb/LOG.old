@@ -1,0 +1,57 @@
+2022/06/16-22:06:16.234 2df Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/16-22:06:16.235 2df Recovering log #106
+2022/06/16-22:06:16.303 2df Reusing old log /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000106.log 
+2022/06/16-22:06:57.113 2a7 Level-0 table #111: started
+2022/06/16-22:06:57.134 2a7 Level-0 table #111: 1225959 bytes OK
+2022/06/16-22:06:57.141 2a7 Delete type=0 #106
+2022/06/16-22:07:07.996 2e3 Compacting 1@1 + 1@2 files
+2022/06/16-22:07:08.020 2e3 Generated table #112@1: 298 keys, 45715 bytes
+2022/06/16-22:07:08.020 2e3 Compacted 1@1 + 1@2 files => 45715 bytes
+2022/06/16-22:07:08.023 2e3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/16-22:07:08.023 2e3 Delete type=2 #111
+2022/06/16-22:07:08.024 2e3 Delete type=2 #108
+2022/06/16-22:39:37.356 21c1 Level-0 table #114: started
+2022/06/16-22:39:37.376 21c1 Level-0 table #114: 1093554 bytes OK
+2022/06/16-22:39:37.379 21c1 Delete type=0 #110
+2022/06/16-22:39:51.718 2105 Compacting 1@1 + 1@2 files
+2022/06/16-22:39:51.731 2105 Generated table #115@1: 377 keys, 38716 bytes
+2022/06/16-22:39:51.731 2105 Compacted 1@1 + 1@2 files => 38716 bytes
+2022/06/16-22:39:51.733 2105 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/16-23:13:25.891 2a4c Level-0 table #117: started
+2022/06/16-23:13:25.908 2a4c Level-0 table #117: 1072049 bytes OK
+2022/06/16-23:13:25.915 2a4c Delete type=2 #112
+2022/06/16-23:13:25.915 2a4c Delete type=2 #114
+2022/06/16-23:13:25.915 2a4c Delete type=0 #113
+2022/06/16-23:13:32.138 21c1 Compacting 1@1 + 1@2 files
+2022/06/16-23:13:32.149 21c1 Generated table #118@1: 367 keys, 38102 bytes
+2022/06/16-23:13:32.149 21c1 Compacted 1@1 + 1@2 files => 38102 bytes
+2022/06/16-23:13:32.152 21c1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/16-23:15:43.336 21c1 Level-0 table #120: started
+2022/06/16-23:15:43.353 21c1 Level-0 table #120: 924303 bytes OK
+2022/06/16-23:15:43.356 21c1 Delete type=0 #116
+2022/06/16-23:15:43.356 21c1 Delete type=2 #117
+2022/06/16-23:15:43.356 21c1 Delete type=2 #115
+2022/06/16-23:17:00.111 21c1 Compacting 1@1 + 1@2 files
+2022/06/16-23:17:00.122 21c1 Generated table #121@1: 359 keys, 27864 bytes
+2022/06/16-23:17:00.122 21c1 Compacted 1@1 + 1@2 files => 27864 bytes
+2022/06/16-23:17:00.124 21c1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/16-23:17:00.124 21c1 Delete type=2 #118
+2022/06/16-23:17:00.125 21c1 Delete type=2 #120
+2022/06/17-00:03:06.314 2c3e Level-0 table #123: started
+2022/06/17-00:03:06.336 2c3e Level-0 table #123: 1063325 bytes OK
+2022/06/17-00:03:06.347 2c3e Delete type=0 #119
+2022/06/17-00:08:42.736 28b2 Compacting 1@1 + 1@2 files
+2022/06/17-00:08:42.753 28b2 Generated table #124@1: 432 keys, 31710 bytes
+2022/06/17-00:08:42.753 28b2 Compacted 1@1 + 1@2 files => 31710 bytes
+2022/06/17-00:08:42.755 28b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/17-11:10:11.098 3629 Level-0 table #126: started
+2022/06/17-11:10:11.128 3629 Level-0 table #126: 1122187 bytes OK
+2022/06/17-11:10:11.133 3629 Delete type=2 #121
+2022/06/17-11:10:11.133 3629 Delete type=0 #122
+2022/06/17-11:10:11.133 3629 Delete type=2 #123
+2022/06/17-11:10:14.006 3615 Compacting 1@1 + 1@2 files
+2022/06/17-11:10:14.012 3615 Generated table #127@1: 465 keys, 36717 bytes
+2022/06/17-11:10:14.012 3615 Compacted 1@1 + 1@2 files => 36717 bytes
+2022/06/17-11:10:14.014 3615 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/17-11:10:14.014 3615 Delete type=2 #126
+2022/06/17-11:10:14.014 3615 Delete type=2 #124

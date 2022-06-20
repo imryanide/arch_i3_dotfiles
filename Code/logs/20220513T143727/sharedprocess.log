@@ -1,0 +1,22 @@
+[2022-05-13 14:37:32.036] [sharedprocess] [info] Starting worker process with pid 42931 (type: fileWatcher, window: 1).
+[2022-05-13 14:37:35.053] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-05-13 14:37:35.056] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-13 14:37:35.061] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-05-13 14:37:35.437] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-05-13 14:37:35.442] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-05-13 14:37:35.446] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-05-13 14:37:41.672] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/baka/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-13 14:37:41.712] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/baka/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-05-13 14:37:41.850] [sharedprocess] [info] Downloaded extension: ms-python.python /home/baka/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.6.2
+[2022-05-13 14:37:43.044] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.ec561692-9978-4ef3-a8c7-d5be966fd6ea: visualstudioexptteam.vscodeintellicode
+[2022-05-13 14:37:43.058] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-05-13 14:37:43.062] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-05-13 14:37:43.069] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-05-13 14:37:43.722] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.7849d477-d43b-49b2-820a-684b26e0ed4b: ms-toolsai.jupyter
+[2022-05-13 14:37:43.742] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-toolsai.jupyter-2022.4.1021342353
+[2022-05-13 14:37:43.747] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-05-13 14:37:43.756] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-05-13 14:37:46.002] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.0bddccb4-3c94-40d8-81c0-bd282d819b5f: ms-python.python
+[2022-05-13 14:37:46.016] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-python.python-2022.6.2
+[2022-05-13 14:37:46.021] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-05-13 14:37:46.026] [sharedprocess] [info] Extension installed successfully: ms-python.python

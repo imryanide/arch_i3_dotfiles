@@ -1,0 +1,29 @@
+[2022-06-07 12:58:32.988] [sharedprocess] [info] Starting worker process with pid 8875 (type: fileWatcher, window: 1).
+[2022-06-07 12:58:38.378] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-06-07 12:58:38.380] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-07 12:58:38.382] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-07 12:58:38.384] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-wsl
+[2022-06-07 12:58:38.776] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-06-07 12:58:38.781] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-07 12:58:39.408] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-06-07 12:58:39.460] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2022-06-07 12:58:45.160] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/baka/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-06-07 12:58:45.211] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.5ab3e7ae-dcb7-4b1f-976a-e8b5a92f53fe: jeff-hykin.better-cpp-syntax
+[2022-06-07 12:58:45.215] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.14
+[2022-06-07 12:58:45.218] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-06-07 12:58:45.224] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-06-07 12:58:47.839] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/baka/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.66.3
+[2022-06-07 12:58:48.102] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.bea6deda-7b24-4069-b904-13737fe86633: ms-vscode-remote.remote-wsl
+[2022-06-07 12:58:48.115] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-vscode-remote.remote-wsl-0.66.3
+[2022-06-07 12:58:48.119] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2022-06-07 12:58:48.124] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2022-06-07 12:58:52.740] [sharedprocess] [info] Downloaded extension: ms-python.python /home/baka/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.6.3
+[2022-06-07 12:58:54.851] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.6068e3da-5934-4828-852d-ddf0bb248452: ms-python.python
+[2022-06-07 12:58:54.873] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-python.python-2022.6.3
+[2022-06-07 12:58:54.880] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-06-07 12:58:54.887] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-06-07 12:59:04.425] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/baka/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.0
+[2022-06-07 12:59:07.616] [sharedprocess] [info] Extracted extension to /home/baka/.vscode/extensions/.140f1f8e-9b42-483d-be01-5bb86d3629ea: ms-python.vscode-pylance
+[2022-06-07 12:59:07.647] [sharedprocess] [info] Renamed to /home/baka/.vscode/extensions/ms-python.vscode-pylance-2022.6.0
+[2022-06-07 12:59:07.655] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-07 12:59:07.668] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

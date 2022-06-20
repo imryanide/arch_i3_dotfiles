@@ -1,0 +1,7 @@
+2022/06/14-09:44:06.008 777 Reusing MANIFEST /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/14-09:44:06.008 777 Recovering log #3
+2022/06/14-09:44:06.015 777 Reusing old log /home/baka/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/06/14-10:53:26.190 edc Level-0 table #5: started
+2022/06/14-10:53:26.227 edc Level-0 table #5: 1588171 bytes OK
+2022/06/14-10:53:26.232 edc Delete type=0 #3
+2022/06/14-10:53:26.233 edc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

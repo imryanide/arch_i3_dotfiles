@@ -1,0 +1,11 @@
+Visual Studio Code (1.67.2, undefined, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.3.
+Workspace folder /home/baka/code/ed-analytics.py
+info 17:39:17.645: ZMQ install verified.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 17:39:18.675: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 17:39:18.854: Activation Commands received source /home/baka/code/ed-analytics.py/ed-venv/bin/activate for shell bash
+info 17:39:18.977: Process Execution: > ~/code/ed-analytics.py/ed-venv/bin/python -m pip list
+> ~/code/ed-analytics.py/ed-venv/bin/python -m pip list
